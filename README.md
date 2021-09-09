@@ -13,16 +13,16 @@
 - React Hooks
 - React-Create-App
 - React Testing Library
-<!-- - [![Netlify Status](https://api.netlify.com/api/v1/badges/781b0a1d-c0ad-4305-8c83-df21a1bf38aa/deploy-status)](https://app.netlify.com/sites/cat-of-trivia-questions/deploys) -->
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/781b0a1d-c0ad-4305-8c83-df21a1bf38aa/deploy-status)](https://app.netlify.com/sites/cat-of-trivia-questions/deploys)
 
 ## Live Demo
 
-<!-- [Catalogue of Trivia Questions](https://cat-of-trivia-questions.netlify.app/) -->
+[Catalogue of Trivia Questions](https://sleepy-clarke-34c541.netlify.app/)
 
 ## Project presentation links (9minutes)
 
-<!-- [Part 1](https://www.loom.com/share/c906f204e82843f8bd6348b83e9f7562) -->
-<!-- [Part 2](https://www.loom.com/share/6a358307f9f04bce9a93b812f63367e3) -->
+[Part 1](https://www.loom.com/share/183c16c91e2240939a7c6b2374ebb2f2)
+[Part 2](https://www.loom.com/share/476da639bfaa41f3b381c76bbceac2f5)
 
 ## Getting Started
 
