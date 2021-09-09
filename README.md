@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# Catalogue-of-Questions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A single page application that fetches data from [Open Trivia API](https://opentdb.com/) into Redux store. Visitors can see all available categories and also filter the trivia questions based on the selected difficulty. Built with React, Redux &amp; React Hooks. This project is one of the **Catalogue of Statistics** project: a React/Redux capstone project in microverse curriculum.
 
-## Available Scripts
+![First Screenshot here...](public/screenshots/screenshot.png)
+![Second screenshot here...](public/screenshots/screenshot2.png)
 
-In the project directory, you can run:
+## Built With
 
-### `yarn start`
+- CSS Modules
+- npm & ES6
+- React/Redux
+- React Hooks
+- React-Create-App
+- React Testing Library
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/781b0a1d-c0ad-4305-8c83-df21a1bf38aa/deploy-status)](https://app.netlify.com/sites/cat-of-trivia-questions/deploys)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Live Demo
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Catalogue of Trivia Questions](https://cat-of-trivia-questions.netlify.app/)
 
-### `yarn test`
+## Project presentation links (9minutes)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Part 1](https://www.loom.com/share/c906f204e82843f8bd6348b83e9f7562)
+[Part 2](https://www.loom.com/share/6a358307f9f04bce9a93b812f63367e3)
 
-### `yarn build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get a local copy up and running follow these simple example steps.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- On the project GitHub page, navigate to the main page of the repository [this page](https://github.com/teekaytech/Catalogue-of-Trivia-Questions).
+- Under the repository name, locate and click on a green button named `Code`.
+- Copy the project URL as displayed.
+- If you're running Windows Operating System, open your command prompt. On Linux, Open your terminal.
+- Change the current working directory to the location where you want the cloned directory to be made. Leave as it is if the current location is where you want the project to be.
+- Type `git clone`, and then paste the URL you copied in Step 3.<br>
+  `$ git clone https://github.com/teekaytech/Catalogue-of-Trivia-Questions.git` <em>Press Enter key</em><br>
+- Press Enter. Your local copy will be created.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Please Note that you must have github installed on your PC, this can be done
 
-### `yarn eject`
+### Making Changes / Running the app locally
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- `npm install` to install the dependencies and packages
+- `npm start` to test the app before or after changes were made
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- [Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03).
+- Web browser (Chrome/Firefox)
+- [Node](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/get-npm)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Usage
 
-## Learn More
+Click on the live demo link and peruse the app.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+built to mark th
+👤 **Taofeek Olalere**
 
-### Code Splitting
+- Github: [@teekaytech](https://github.com/teekaytech)
+- Twitter: [@ola_lere](https://twitter.com/ola_lere)
+- Linkedin: [olaleretaofeek](https://linkedin.com/in/olaleretaofeek)
+- Portfolio: [Olalere Taofeek](https://teekaytech.github.io/olaleretaofeek/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🤝 Contributing
 
-### Analyzing the Bundle Size
+Contributions, issues and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Feel free to check the [issues page](https://github.com/teekaytech/Catalogue-of-Papers/issues/).
 
-### Making a Progressive Web App
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Give a ⭐️ if you like this project!
 
-### Advanced Configuration
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [Microverse](https://.microverse.org/)
+- [create-react-app boilerplate from Facebook team](https://github.com/facebook/create-react-app)
+- [Netlify](https://app.netlify.com/)
+- [Design idea by Nelson Sakwa on Behance](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [CSS Modules](https://css-tricks.com/css-modules-part-1-need/)
+- [React Testing Library](https://github.com/testing-library/react-testing-library)
 
-### Deployment
+## 📝 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](/LICENSE) licensed.
