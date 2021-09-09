@@ -2,8 +2,8 @@
 
 > A single page application that fetches data from [Open Trivia API](https://opentdb.com/) into Redux store. Visitors can see all available categories and also filter the trivia questions based on the selected difficulty. Built with React, Redux &amp; React Hooks. This project is one of the **Catalogue of Statistics** project: a React/Redux capstone project in microverse curriculum.
 
-![First Screenshot here...](public/screenshots/screenshot.png)
-![Second screenshot here...](public/screenshots/screenshot2.png)
+<!-- ![First Screenshot here...](public/screenshots/screenshot.png) -->
+<!-- ![Second screenshot here...](public/screenshots/screenshot2.png) -->
 
 ## Built With
 
@@ -13,16 +13,16 @@
 - React Hooks
 - React-Create-App
 - React Testing Library
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/781b0a1d-c0ad-4305-8c83-df21a1bf38aa/deploy-status)](https://app.netlify.com/sites/cat-of-trivia-questions/deploys)
+<!-- - [![Netlify Status](https://api.netlify.com/api/v1/badges/781b0a1d-c0ad-4305-8c83-df21a1bf38aa/deploy-status)](https://app.netlify.com/sites/cat-of-trivia-questions/deploys) -->
 
 ## Live Demo
 
-[Catalogue of Trivia Questions](https://cat-of-trivia-questions.netlify.app/)
+<!-- [Catalogue of Trivia Questions](https://cat-of-trivia-questions.netlify.app/) -->
 
 ## Project presentation links (9minutes)
 
-[Part 1](https://www.loom.com/share/c906f204e82843f8bd6348b83e9f7562)
-[Part 2](https://www.loom.com/share/6a358307f9f04bce9a93b812f63367e3)
+<!-- [Part 1](https://www.loom.com/share/c906f204e82843f8bd6348b83e9f7562) -->
+<!-- [Part 2](https://www.loom.com/share/6a358307f9f04bce9a93b812f63367e3) -->
 
 ## Getting Started
 
@@ -58,18 +58,17 @@ Click on the live demo link and peruse the app.
 ## Author
 
 built to mark th
-👤 **Taofeek Olalere**
+👤 **Azeez Ibrahim**
 
-- Github: [@teekaytech](https://github.com/teekaytech)
-- Twitter: [@ola_lere](https://twitter.com/ola_lere)
-- Linkedin: [olaleretaofeek](https://linkedin.com/in/olaleretaofeek)
-- Portfolio: [Olalere Taofeek](https://teekaytech.github.io/olaleretaofeek/)
+- Github: [@kunmi02](https://github.com/kunmi02)
+- Twitter: [@akinkunmi006](https://twitter.com/akinkunmmi006)
+- Linkedin: [Azeez Ibrahim](https://linkedin.com/in/azeezakinkunmi)
+- Portfolio: [Azeez Ibrahim](https://akinkunmi.me/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/teekaytech/Catalogue-of-Papers/issues/).
 
 ## Show your support
 
