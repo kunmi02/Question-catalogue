@@ -17,7 +17,7 @@ const CategoryFilter = ({ handleCategoryChange }) => {
   return (
     <div className={styles.filter}>
       <label htmlFor="categoryFilter">
-        Levels of difficulty:
+        Difficulty Level:
         <select
           className={styles.select}
           name="category"

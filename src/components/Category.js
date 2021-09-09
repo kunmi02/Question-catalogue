@@ -10,7 +10,7 @@ const Category = ({ name, handleSubmit }) => {
     <div className={styles.category}>
       <h4>{name}</h4>
       <Link to={`/categories/${url}`} onClick={() => handleSubmit(name)}>
-        View questions
+        See questions
       </Link>
     </div>
   );

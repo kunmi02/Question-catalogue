@@ -4,8 +4,8 @@
   padding: 25px 0;
   width: 96%;
   max-width: 80%;
-  background: rgb(255, 240, 255);
-  background: rgba(255, 240, 255, 0.3);
+  background: rgb(255, 243, 240);
+  background: rgba(240, 255, 249, 0.3);
 }
 
 .cHeader {
@@ -24,7 +24,7 @@
   height: 150px;
   overflow-wrap: break-word;
   padding: 10px;
-  background-color: #102542;
+  background-color: green;
   box-shadow: 0 7px 7px -5px;
   margin-bottom: 30px;
   display: flex;
@@ -35,7 +35,7 @@
 }
 
 .category:hover {
-  background-color: #ee8434;
+  background-color: #4634ee;
   border-top: 5px solid #090c02;
   font-size: 18px;
 }

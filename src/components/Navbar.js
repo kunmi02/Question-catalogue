@@ -15,10 +15,7 @@ const Navbar = ({ handleFilter }) => {
     <nav className={styles.nav}>
       <Link to="/">
         <h1>
-          <span role="img" aria-label="Home">
-            🏠
-          </span>
-          Catalogue of Trivia Questions
+          Questions Catalogue
         </h1>
       </Link>
       <div>

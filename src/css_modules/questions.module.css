@@ -13,12 +13,12 @@
   display: flex;
   justify-content: space-between;
   margin: 0;
-  background-color: #090c02;
+  background-color: #a10e75;
 }
 
 .catName {
   display: inline-block;
-  background-color: #ee8434;
+  background-color: #07bcd4;
   padding: 2px 4px;
 }
 
@@ -34,7 +34,7 @@
   margin: 15px auto;
   border-radius: 5px;
   padding: 10px 15px;
-  background-color: #102542;
+  background-color: #151614;
 }
 
 .difficulty {
@@ -54,7 +54,7 @@
   margin-top: 10px;
   padding-left: 10px;
   padding-right: 5px;
-  border-left: 20px solid #ee8434;
+  border-left: 20px solid #ca6111;
   cursor: pointer;
 }
 

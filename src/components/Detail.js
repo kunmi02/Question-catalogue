@@ -28,7 +28,7 @@ const Detail = ({ questions, category, difficulty }) => {
     <main className={`${styles2.main} ${styles.main}`}>
       <div className={styles.questionDetails}>
         <h4>
-          Trivia questions for
+          Questions for
           {' '}
           <span className={styles.catName}>
             {category}
@@ -40,7 +40,7 @@ const Detail = ({ questions, category, difficulty }) => {
           No. of Questions:
           {' '}
           {filteredQuestions.length}
-          , Level of Difficulty:
+          , Difficulty Level:
           {' '}
           {difficulty.toUpperCase()}
         </h4>

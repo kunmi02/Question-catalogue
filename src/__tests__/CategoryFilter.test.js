@@ -9,9 +9,9 @@ describe('test for filter by difficulty dropdown component', () => {
   );
 
   test('should render levels of difficulty dropdown', () => {
-    expect(getByLabelText('Levels of difficulty:')).not.toBeNull();
+    expect(getByLabelText('Difficulty Level:')).not.toBeNull();
 
-    const dropdown = getByLabelText('Levels of difficulty:').closest('select');
+    const dropdown = getByLabelText('Difficulty Level:').closest('select');
     expect(dropdown.children.length).toBeTruthy();
     expect(dropdown.children.length).toBe(4);
     expect(dropdown.children.length === 3).toBeFalsy();

@@ -7,7 +7,7 @@ import Navbar from '../components/Navbar';
 
 describe('test the Navbar component', () => {
   const mockClick = jest.fn();
-  const title = 'Catalogue of Trivia Questions';
+  const title = 'Questions Catalogue';
   const { getByText } = render(
     <>
       <Provider store={store}>

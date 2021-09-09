@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom';
 import Category from '../components/Category';
 
 describe('tests for category UI component', () => {
-  const name = 'CategoryA';
+  const name = 'categorya';
   const mockSubmit = jest.fn();
   const { queryAllByText } = render(
     <>
@@ -16,13 +16,13 @@ describe('tests for category UI component', () => {
       ,
     </>,
   );
-  test('should have categories and view-questions link', () => {
+  test('should have categories and see-questions link', () => {
     queryAllByText(name);
-    queryAllByText('View questions');
-    expect(screen.getByText('View questions').closest('a'))
+    queryAllByText('See questions');
+    expect(screen.getByText('See questions').closest('a'))
       .toHaveAttribute('href', `/categories/${name}`);
   });
 
-  fireEvent.click(screen.getByText('View questions').closest('a'));
+  fireEvent.click(screen.getByText('See questions').closest('a'));
   expect(mockSubmit).toHaveBeenCalledTimes(1);
 });

@@ -37,7 +37,7 @@ const Question = ({ question }) => {
         );
       })
     ) : (
-      <p>Loading questions...</p>
+      <p>Questions coming up...</p>
     );
   };
 
