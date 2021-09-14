@@ -22,7 +22,7 @@
 ## Project presentation links (9minutes)
 
 [Part 1](https://www.loom.com/share/183c16c91e2240939a7c6b2374ebb2f2)
-[Part 2](https://www.loom.com/share/476da639bfaa41f3b381c76bbceac2f5)
+[Part 2](https://www.loom.com/share/d3ad7b61c4744a69acb40ff4ab1bd7ae)
 
 ## Getting Started
 
